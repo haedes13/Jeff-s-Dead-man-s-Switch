@@ -39,3 +39,5 @@ Install all required libraries with this single command:
 
 ```bash
 pip install pycryptodome tqdm keyboard wmi
+
+## 🧩 Setup Instructions
