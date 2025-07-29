@@ -7,7 +7,8 @@ This project is a Python-based USB tethering security system that **locks your P
 ---
 
 ## 📷 Demo Screenshots
-_Add your screenshots here: GUI, encryption progress, USB disconnect lock screen, etc._
+<img width="747" height="663" alt="image" src="https://github.com/user-attachments/assets/ed877fbd-9658-40db-bde8-a14c37959609" />
+
 
 ---
 
