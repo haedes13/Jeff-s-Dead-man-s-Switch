@@ -120,7 +120,7 @@ py -m PyInstaller --noconfirm --onefile --windowed buskill_secure.py
 
 3. Enter a secure password and click "Arm".
 
-4. The application will minimize.
+4. The application will minimize. To bring back the application CTRL + ALT + B which is the Hotkey. This hotkey can be changed based om the user.
 
 5. If the designated USB device is removed:
 
